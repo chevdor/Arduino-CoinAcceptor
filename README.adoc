@@ -21,4 +21,4 @@ image:./doc/20cents.png[] Signal for a 20 cents coin
 
 image:./doc/50cents.png[] Signal for a 50 cents coin
 
-image:./doc/coin_and_action.png[] Signal + Coin detect + Action
+image:./doc/coin_and_action.png[] Signal + Coin detect + Action. On this trace, we see the signal (D0), followed by a 5ms pulse showing we detected a coin (D2), followed by 3 pulses on  D1, showing that we reached the minimum balance and used it to perform an action.
