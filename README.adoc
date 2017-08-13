@@ -1,0 +1,11 @@
+= Coin Acceptor (DG600F) demo with Arduino Uno
+
+  Example for DG600F (S).
+  The sample configures 2 inputs and 3 outputs.
+  In the sample, only one input is used to reset the current balance: PIN 2
+  In the sample, PIN 6 and 7 are connected to LEDs.
+  PIN6 makes the LED blinks when a coin is detected.
+  PIN7 blinks when enough is paid.
+  PIN9 is illuminated when an error occurs.
+
+  
